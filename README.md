@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a dedicated Java Developer skilled in Core Java, Spring Boot, and database-driven applications. I focus on writing clean, efficient code and building reliable backend systems. I am always eager to learn, grow, and take on new technical challenges.🔭 I’m currently working on<br>
+I am a dedicated Java Developer skilled in Core Java, Spring Boot, and database-driven applications. I focus on writing clean, efficient code and building reliable backend systems. I am always eager to learn, grow, and take on new technical challenges.
+
+🔭 I’m currently working on<br>
 Java-based web applications using Spring Boot and JDBC<br><br>
 
 👯 I’m looking to collaborate on<br>
